@@ -2313,9 +2313,9 @@
         },
         "info_creador": {
             "texto1": [
-                "*—◉ Le numéro de mon créateur est wa.me/5219992095479*",
-                "*—◉ Le numéro du collaborateur 1 est wa.me/34642467703*",
-                "*—◉ Le numéro du collaborateur 2 est wa.me/50499698072*",
+                "*—◉ Le numéro de mon créateur est wa.me/595984303784*",
+                "*—◉ Le numéro du collaborateur 1 est wa.me/595984303784*",
+                "*—◉ Le numéro du collaborateur 2 est wa.me/595984303784*",
                 "*—◉ Le numéro du collaborateur 3 est wa.me/595986460945*",
                 "*—◉ Le numéro du collaborateur 4 est wa.me/51940617554*",
                 "*—◉ Le numéro du collaborateur 5 est wa.me/51995386439*",
@@ -2342,19 +2342,19 @@
                 " ➤ CLÉ :",
                 "646180192175788481",
                 "➤ BANQUE : STP",
-                "➤ BÉNÉFICIAIRE : Bruno Sobrino",
+                "➤ BÉNÉFICIAIRE : 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
                 "➤ CONCEPT : SOUTIEN",
                 "➤ PAYPAL : https://www.paypal.me/TheShadowBrokers133",
                 "👉🏻 CONTACTEZ-NOUS EN CAS DE BESOIN",
                 "PLUS DE DONNÉES ET POUR REMERCIER",
-                "wa.me/5219992095479"
+                "wa.me/595984303784"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATIONS - ÉTAT />*_",
-                "▢ *Prop. :* Bruno Sobrino",
-                "▢ *WA :* +5219992095479",
+                "▢ *Prop. :* 𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
+                "▢ *WA :* +595984303784",
                 "▢ *PayPal :* paypal.me/TheShadowBrokers133",
                 "▢ *Ping :*",
                 "▢ *Temps d'activité :*",
@@ -2412,7 +2412,7 @@
             "texto2": "Le meilleur hébergement 🚀"
         },
         "info_instalarbot": {
-            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
+            "texto1": "*—◉ INSTALLATION DU BOT PRINCIPAL*\n> Tutoriel : https://youtu.be/eC9TfKICpcY\n> Page Officielle : https://boxmineworld.com\n> Tableau de Bord : https://dash.boxmineworld.com/home\n> Panneau : https://panel.boxmineworld.com\n> Support : https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ INSTALLATION DU BOT TERTIAIRE\n> Tutoriel : https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ COMMANDES D'INSTALLATION*\n> Commandes :\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVATION EN CAS D'ARRÊT SUR TERMUX ✔️\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENIR UN AUTRE CODE QR SUR TERMUX 👽\nTAPER LES COMMANDES SUIVANTES UNE PAR UNE :\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
             "texto2": "Le meilleur Bot de WhatsApp"
         },
         "info_listprem": {
@@ -2452,7 +2452,7 @@
                 "▢ *Taille :*",
                 "▢ *Dernière mise à jour :*",
                 "▢ *URL :*",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+                "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
                 "Forks ·",
                 "Étoiles ·",
                 "Problèmes\n\n",
@@ -3517,7 +3517,7 @@
             "texto11": [
                 "[ ⚠️ ] Avertissement",
                 "[ ⚠️ ] Avertissement",
-                "https://github.com/BrunoSobrino/TheMystic-Bot-MD"
+                "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT"
             ]
         },
         "participantsUpdate": {

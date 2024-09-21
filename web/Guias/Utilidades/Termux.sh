@@ -3,7 +3,7 @@ wget https://raw.githubusercontent.com/BrunoSobrino/TheMystic-Bot-MD/refs/heads/
 proot-distro login archlinux -- bash -c "pacman -Syu wget curl nodejs nano npm git ffmpeg python imagemagick --noconfirm && \
 wget https://raw.githubusercontent.com/weskerty/test/main/Termux/update.sh -O ~/update.sh && \
 chmod 777 ~/update.sh && \
-git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git mystic && \
+git clone https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT.git mystic && \
 cd mystic && \
 npm install && \
 npm start ."
