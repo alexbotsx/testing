@@ -75,7 +75,7 @@ const handler = async (m, { conn, usedPrefix }) => {
         mediaUrl: "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
         mediaType: 2,
         previewType: "pdf",
-        title: "The Mystic - Bot",
+        title: "𝗚𝗛𝗢𝗦𝗧 𝗕𝗢𝗧",
         body: tradutor.texto2,
         thumbnail: imagen1,
         sourceUrl: "https://chat.whatsapp.com/IGsGRrP8paEAD2mHVF0xUT",
